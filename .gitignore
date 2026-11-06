@@ -3,3 +3,13 @@ __pycache__/
 .env
 .vscode/
 .idea/
+
+# Virtual environment
+.venv/
+venv/
+
+# Log files
+*.log
+
+# Runtime data
+data/tasks.json
